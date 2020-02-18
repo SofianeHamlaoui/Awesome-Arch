@@ -15,7 +15,7 @@ A curated list of awesome Archlinux projects,and softwares
   - [Specific purpose](#specific-purpose)
 - [Applications](#applications)
   - [Package Managers](#package-managers)
-  - [Pacman Wrappers && AUR helpers](#Pacman-Wrappers-&-AUR-helpers)
+  - [Pacman Wrappers && AUR helpers](#pacman-wrappers--aur-helpers)
 - [SystemD-free Arch-based distros](#systemd-free-arch-based-distros)
 - [Arch Linux Installers](#arch-linux-installers)
 - [Other projects](#other-projects)
