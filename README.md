@@ -1,5 +1,5 @@
 # Awesome ArchLinux [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Archlinux projects,and softwares
+A curated list of awesome Archlinux projects,softwares and resources.
 
 [<img src="https://www.archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" align="right" width="250">](https://www.archlinux.org/)
 
