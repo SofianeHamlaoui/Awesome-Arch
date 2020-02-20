@@ -18,7 +18,7 @@ A curated list of awesome Arch-related projects,softwares and resources.
 - [Applications](#applications)
   - [Package Managers](#package-managers)
   - [Pacman Wrappers && AUR helpers](#pacman-wrappers--aur-helpers)
-- [SystemD-free Arch-based distros](#systemd-free-arch-based-distros)
+- [Systemd-free Arch-based distros](#systemd-free-arch-based-distros)
 - [Arch Linux Installers](#arch-linux-installers)
 - [Other projects](#other-projects)
 
@@ -86,7 +86,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [Pakku](https://github.com/kitsunyan/pakku) - Pacman wrapper with AUR support
 - [Yay](https://github.com/Jguer/yay) - Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
-## SystemD-free Arch-based distros
+## Systemd-free Arch-based distros
 
 - [Obarun](https://web.obarun.org/) - An Arch Linux based distribution featuring the S6 init software in place of systemd.
 - [Artix Linux](https://artixlinux.org/) - A fork (or continuation as an autonomous project) of the Arch-OpenRC and Manjaro-OpenRC projects.
