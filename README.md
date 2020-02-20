@@ -2,8 +2,8 @@
   <img  src="https://www.archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" width="300">
 </p>
                                                                                                                           
-# Awesome ArchLinux [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Archlinux projects,softwares and resources.
+# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome Arch-based projects,softwares and resources.
 
 [Arch Linux](https://www.archlinux.org/) Arch Linux is an independently developed, x86-64 general-purpose [GNU](https://en.wikipedia.org/wiki/GNU)/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required.
 
