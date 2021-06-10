@@ -101,6 +101,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [ArchDI](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer
 - [Arch0I](https://github.com/SofianeHamlaoui/ArchI0) - Arch-Based Distros Applications Automatic Installation Script
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
+- [arch_install](https://github.com/Thomashighbaugh/arch_install) - a fully featured dialog-based installer that 'just works'
 
 ## Communities : 
 - [r/archlinux](https://www.reddit.com/r/archlinux/) - Arch Linux on Reddit
